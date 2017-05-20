@@ -1,0 +1,54 @@
+
+
+# site icon
+
+
+# author headimg
+headimg: /head.jpg
+
+# search
+search: 
+    enable: true
+    placeholder: Enter Key...
+
+# sidebar
+sidebar: 
+  enable: true
+  menus:
+    -
+      name: Weibo
+      link: #
+      target: _blank
+
+# count(统计)
+count:
+  enable: true
+
+# comments
+comments:
+  duoshuo_username:  Helen
+  #disqus_username: yumemor
+
+# accounts support weibo/github/zhihu/twitter/douban 
+# display to former three
+social: 
+  -
+    name: weibo
+    link: #
+  -
+    name: github
+    link: #
+  -
+    name: zhihu
+    link: #
+#  -
+#    name: twitter
+#    link: 
+#  -
+#    name: douban
+#    link: 
+
+
+
+
+
